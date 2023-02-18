@@ -1,7 +1,7 @@
 # GIFTUDEMO
 It's an non-server APP DEMO for couples that they give gifts as surprise for each other.
 
-![](https://github.com/whysoseriousJ/GIFTUDEMO/blob/94ce07210a356a59b07422c9cbbcccd95b643a98/GIFTU/Assets.xcassets/AppIcon.appiconset/THE%20SHINEST%20LOGO.png)
+![](https://github.com/whysoseriousJ/GIFTUDEMO/blob/118b20c35c267dff1a63bc691ef9a9a30e214988/GIFTU/Assets.xcassets/AppIcon.appiconset/logo1.png)
 
 GIFTU 2.0 - [官方主页](//)
 =========================
@@ -16,16 +16,11 @@ Feature
 
 Architecture
 =========================
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/walle-flow-relation.jpg)
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/permission.png)
+
 
 Preview
 =========================
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/user-list.png)
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/project-list.png)
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/task-list.png)
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/deploy-console.png)
-![](https://raw.github.com/meolu/docs/master/walle-web.io/docs/2/zh-cn/static/project_java_tomcat.png)
+
 
 
 
