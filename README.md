@@ -9,7 +9,8 @@ Have you ever encountered the situation that you don't know what gift to buy for
 当某些节日快要到来的时候，你不知道该给Ta买什么礼物，怕自己买的礼物Ta不喜欢甚至不想要，  
 或者你收到Ta送的礼物，其实是你完全不想要的，不喜欢的。  
 
-It's common in most of couples and sometimes it cause bad consequences, such as bad mood, fight, breakup. So why don't we just give what they want? How can we give what they want that we can also surprise them?  
+It's common in most of couples and sometimes it cause bad consequences, such as bad mood, fight, breakup.   
+So why don't we just give what they want? How can we give what they want that we can also surprise them?   
 这种情况在大部分情侣中是很常见的，有时候它会带来坏影响，比如收到不想要礼物时的坏心情、吵架、甚至是分手。  
 所以，为什么我们不直接给他们想要的礼物呢？那我们要怎么样做才能既给了他们想要的礼物，同时又能让他们惊喜呢？  
 
@@ -60,10 +61,12 @@ Discussing
 - [submit issue](https://github.com/whysoseriousJ/GIFTUDEMO/issues/new)
 
 
-勾搭下
+CONTACT ME
 =========================
 互联网产品开发、电商B2B、B2C、房地产、光伏及加密货币TRADING领域都是我有所涉猎的，无论哪个都欢迎交流。  
-人脉也是一项重要能力，我也想成为你们能力的一部分。请备注姓名&公司，谢谢(^ ^)。  Wechat: whysoseriousJ_
+人脉也是一项重要能力，我也想成为你们能力的一部分。请备注姓名&公司，谢谢(^ ^)。  
+Email: 454608228@qq.com // zjy454608228@gmail.com
+Wechat: whysoseriousJ_
 
 ![](https://github.com/whysoseriousJ/GIFTUDEMO/blob/d8c2cc6e72f885bd141de39b9d26a5888dc10aa1/Snapshot/WECHAT.jpg)
 
