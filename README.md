@@ -22,7 +22,7 @@ It's an non-server APP DEMO for couples that they give gifts as surprise for eac
 这是一个APP的DEMO（无服务器版）。  
 IT'S FOR FUNCTIONS DEMONSTRATION.   
 仅用来展示功能。  
-The 2.0 version with server and new UI is OTW, if you are interested in this project and want to join us, please contact me.
+The 2.0 version with server and new UI is OTW, if you are interested in this project and want to join us, please contact me.    
 联网可用的版本已完成DEMO，有全新的UI设计，如果你对这个项目有兴趣、有想法且想要加入的话，欢迎联系我。
 
 Feature
