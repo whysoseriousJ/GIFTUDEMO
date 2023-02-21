@@ -2,7 +2,7 @@
 ![](https://github.com/whysoseriousJ/GIFTUDEMO/blob/118b20c35c267dff1a63bc691ef9a9a30e214988/GIFTU/Assets.xcassets/AppIcon.appiconset/logo1.png)
 
 
-GIFTUDEMO 1.0 - [官方主页](//) 
+GIFTUDEMO 1.0 - [官方主页](OTW) 
 =========================
 Have you ever encountered the situation that you don't know what gift to buy for your lover and worry about disappointing your lover when some significant days come, or the gift you received from your lover is not what you actually want?   
 你有没有遇到过这样的情况：  
@@ -21,7 +21,9 @@ PS:
 It's an non-server APP DEMO for couples that they give gifts as surprise for each other.   
 这是一个APP的DEMO（无服务器版）。  
 IT'S FOR FUNCTIONS DEMONSTRATION.   
-只用来展示功能。  
+仅用来展示功能。  
+The 2.0 version with server and new UI is OTW, if you are interested in this project and want to join us, please contact me.
+联网可用的版本已完成DEMO，有全新的UI设计，如果你对这个项目有兴趣、有想法且想要加入的话，欢迎联系我。
 
 Feature
 =========================
@@ -64,7 +66,7 @@ Discussing
 CONTACT ME
 =========================
 互联网产品开发、电商B2B、B2C、房地产、光伏及加密货币TRADING领域都是我有所涉猎的，无论哪个都欢迎交流。  
-人脉也是一项重要能力，我也想成为你们能力的一部分。请备注姓名&公司，谢谢(^ ^)。  
+人脉也是一项重要能力，希望我们能互相成为对方的能力之一。请备注姓名&公司，谢谢(^ ^)。  
 Email: 454608228@qq.com // zjy454608228@gmail.com
 Wechat: whysoseriousJ_
 
