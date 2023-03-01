@@ -2,7 +2,7 @@
 ![](https://github.com/whysoseriousJ/GIFTUDEMO/blob/118b20c35c267dff1a63bc691ef9a9a30e214988/GIFTU/Assets.xcassets/AppIcon.appiconset/logo1.png)
 
 
-GIFTUDEMO 1.0 - [官方主页](OTW) 
+GIFTUDEMO 1.0 - [官方主页](https://www.notion.so/GIFTU-HOME-c9d3542fe77749a3aa603bbcf9807bcd?pvs=4) 
 =========================
 Have you ever encountered the situation that you don't know what gift to buy for your lover and worry about disappointing your lover when some significant days come, or the gift you received from your lover is not what you actually want?   
 你有没有遇到过这样的情况：  
