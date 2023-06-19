@@ -42,10 +42,6 @@ COVERPAGE
 ![COVERPAGE](https://github.com/whysoseriousJ/GIFTUDEMO/blob/1f8fc2b3e0b0258d634a40162451bcd6d8e63bb1/Snapshot/Coverpage.png)  
 GIFTING  
 ![GIFTING](https://github.com/whysoseriousJ/GIFTUDEMO/blob/21f5e3d3d40c71a0c233f2701f82a32293319460/Snapshot/GIFTING.png)  
-GIFTING - GIFT TIME (PICK GIFT)   
-![GIFTING-GIFTTIME](https://github.com/whysoseriousJ/GIFTUDEMO/blob/f797753ef2700c081072d9d8e3f9a58a173e9771/Snapshot/GIFTTIME.png)  
-GIFTING - GIFT LIST   
-![GIFTING-GIFTLIST](https://github.com/whysoseriousJ/GIFTUDEMO/blob/21f5e3d3d40c71a0c233f2701f82a32293319460/Snapshot/GIFTLIST.png)  
 COMMUNITY - RECOMMENDED   
 ![COMMUNITY-RECOMMENDED](https://github.com/whysoseriousJ/GIFTUDEMO/blob/21f5e3d3d40c71a0c233f2701f82a32293319460/Snapshot/COMMUNITY-RECOMMEND.png)  
 COMMUNITY - FOLLOWED   
